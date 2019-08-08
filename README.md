@@ -1,2 +1,0 @@
-# jarvis
-azure automation
